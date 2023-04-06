@@ -342,7 +342,7 @@
 
   .pricing-plan,
   .pricing-plan:last-child {
-    width: 75%;
+    width: 85%;
     justify-self: center;
   }
 
